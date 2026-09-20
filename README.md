@@ -11,6 +11,10 @@
   <a href="https://getpatrimony.com/learn">How it works</a>
 </p>
 
+<p align="center">
+  <a href="https://www.mywot.com/scorecard/gabremoku.github.io%2Fpatrimony%2F"><img src="https://img.shields.io/badge/WOT-Verified%20Site-3cb878" alt="WOT Verified Site"></a>
+</p>
+
 ---
 
 Patrimony is a personal net worth tracker built around a calm monthly
