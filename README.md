@@ -51,5 +51,5 @@ requests. The app itself runs at [getpatrimony.com](https://getpatrimony.com).
 ---
 
 <p align="center">
-  A project by <a href="https://getpatrimony.com/contact">Gabriele Denaro</a>.
+  A project by <a href="https://gabrieledenaro.com/chi-sono">Gabriele Denaro</a>.
 </p>
